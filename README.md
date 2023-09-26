@@ -4,4 +4,17 @@ My name is **Louise Derizhy**.<br>
 
 I am a **Software Engineer** in [PT Murni Sadar Tbk](https://rsmurniteguh.com/).<br>
 
-Come connect with me on [Linkedin](https://www.linkedin.com/in/louisederizhy/).
+### My Skills
+  <img src="./icons/Python-Dark.svg" width="48">
+  <img src="./icons/Java-Dark.svg" width="48">
+  <img src="./icons/HTML.svg" width="48">
+  <img src="./icons/CSS.svg" width="48">
+  <img src="./icons/JavaScript.svg" width="48">
+  <img src="./icons/JQuery.svg" width="48">
+  <img src="./icons/MySQL-Dark.svg" width="48">
+  <br>
+  <br>
+
+### Follow Me On
+  <img src="./icons/LinkedIn.svg" width="48"><a href="https://www.linkedin.com/in/louisederizhy">
+  <img src="./icons/Instagram.svg" width="48"><a href="https://www.linkedin.com/in/louisederizhy">
