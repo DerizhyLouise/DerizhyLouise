@@ -16,5 +16,5 @@ I am a **Software Engineer** in [PT Murni Sadar Tbk](https://rsmurniteguh.com/).
   <br>
 
 ### Follow Me On
-  <img src="icons/LinkedIn.svg" width="25"><a href="https://www.linkedin.com/in/louisederizhy">
-  <img src="icons/Instagram.svg" width="25"><a href="https://www.instagram.com/derizheese/">
+  <a href="https://www.linkedin.com/in/louisederizhy"><img src="icons/LinkedIn.svg" width="25">
+  <a href="https://www.instagram.com/derizheese/"><img src="icons/Instagram.svg" width="25">
