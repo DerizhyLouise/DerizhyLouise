@@ -1,10 +1,10 @@
 # Welcome! 
 
 Here is my profile:
- * **Louise Derizhy (張家誠)**.<br>
- * Live in **Medan, Indonesia**.<br>
- * **Informatics Engineering** student in [Universitas Mikroskil](https://www.mikroskil.ac.id/).
- * **Software Engineer** in [PT Murni Sadar Tbk](https://rsmurniteguh.com/).<br>
+ * **Louise Derizhy (張家誠)**
+ * Live in **Medan, Indonesia**
+ * **Informatics Engineering** student in [Universitas Mikroskil](https://www.mikroskil.ac.id/)
+ * **Software Engineer** in [PT Murni Sadar Tbk](https://rsmurniteguh.com/)
 
 ### My Skills
 <div style="display:flex; justify-content:space-around;">
