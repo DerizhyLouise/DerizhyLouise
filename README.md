@@ -5,7 +5,7 @@ Here is my profile:
  * Live in **Medan, Indonesia**
  * **Informatics Engineering** student in [Universitas Mikroskil](https://www.mikroskil.ac.id/)
  * **Software Engineer** in [PT Murni Sadar Tbk](https://rsmurniteguh.com/)
- * More information >> [derizhy.xyz](https://derizhy.com)
+ * More information >> [derizhy.com](https://derizhy.com)
 
 ### My Skills
 <div style="display:flex; justify-content:space-around;">
