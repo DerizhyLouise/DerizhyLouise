@@ -1,10 +1,6 @@
 # Welcome! 
 
-Here is my profile:
- * **Louise Derizhy (張家誠)**
- * Live in **Medan, Indonesia**
- * **Informatics Engineering** student in [Universitas Mikroskil](https://www.mikroskil.ac.id/)
- * **Software Engineer** in [PT Murni Sadar Tbk](https://rsmurniteguh.com/)
+ * Louise Derizhy (張家誠)
  * More information >> [derizhy.com](https://derizhy.com)
 
 ### My Skills
@@ -25,9 +21,3 @@ Here is my profile:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DerizhyLouise&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </p>
-
-### Follow Me On
-<div>
-  <a href="https://www.linkedin.com/in/louisederizhy"><img src="icons/LinkedIn.svg" width="50"></a>
-  <a href="https://www.instagram.com/derizheese/"><img src="icons/Instagram.svg" width="50"></a>
-</div>
